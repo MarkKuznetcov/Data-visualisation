@@ -1,0 +1,233 @@
+"Country","Corporate Tax Rate","Top Marginal Income Tax Rate","VAT Rate","Continent","IncomeTax_Updated"
+"Afghanistan",20,20,0,"Asia",20
+"Albania",15,23,20,"Europe",23
+"Algeria",NA,35,19,"Africa",35
+"American Samoa",34,6,0,"Oceania",6
+"Andorra",10,10,4,"Europe",10
+"Angola",30,17,14,"Africa",17
+"Anguilla",0,0,0,"Americas",0
+"Antigua and Barbuda",25,0,15,"Americas",0
+"Argentina",35,35,21,"Americas",35
+"Armenia",18,22,20,"Asia",22
+"Aruba",25,59,2,"Americas",59
+"Australia",30,45,10,"Oceania",45
+"Austria",23,55,20,"Europe",55
+"Azerbaijan",20,25,18,"Asia",25
+"Azores",14,36,4,"Europe",36
+"Bahamas",0,9,12,"Americas",9
+"Bahrain",0,0,10,"Asia",0
+"Bangladesh",32,25,15,"Asia",25
+"Barbados",6,38,18,"Americas",38
+"Belarus",20,43,20,"Europe",43
+"Belgium",25,60,21,"Europe",60
+"Belize",25,25,12,"Americas",25
+"Benin",35,35,18,"Africa",35
+"Bermuda",0,0,0,"Americas",0
+"Bhutan",26,25,NA,"Asia",25
+"Bolivia",29,25,13,"Americas",25
+"Bosnia and Herzegovina",10,10,17,"Europe",10
+"Botswana",22,25,14,"Africa",25
+"Brazil",40,28,NA,"Americas",28
+"Brunei",1,0,NA,"Asia",0
+"Bulgaria",10,10,20,"Europe",10
+"Burkina Faso",28,25,18,"Africa",25
+"Burundi",35,35,18,"Africa",35
+"Cambodia",20,20,10,"Asia",20
+"Cameroon",32,35,19,"Africa",35
+"Canada",NA,58,5,"Americas",58
+"Cape Verde",25,28,15,"Africa",28
+"Cayman Islands",0,0,0,"Americas",0
+"Central African Republic",30,50,19,"Africa",50
+"Chad",20,NA,NA,"Africa",20
+"Chile",NA,40,19,"Americas",40
+"China",25,45,13,"Asia",45
+"Colombia",35,35,19,"Americas",35
+"Comoros",35,NA,NA,"Africa",35
+"Cook Islands",NA,30,15,"Oceania",30
+"DR Congo",35,40,NA,"Africa",40
+"Congo",30,NA,19,"Africa",30
+"Costa Rica",30,25,13,"Americas",25
+"Croatia",18,40,25,"Europe",40
+"Cuba",30,50,NA,"Americas",50
+"Curaçao",22,46,6,"Americas",46
+"Cyprus",12,35,19,"Asia",35
+"Czech Republic",21,46,21,"Europe",46
+"Denmark",NA,52,25,"Europe",52
+"Djibouti",25,NA,NA,"Africa",25
+"Dominica",25,35,15,"Americas",35
+"Dominican Republic",27,25,18,"Americas",25
+"Timor-Leste",10,NA,NA,"Asia",10
+"Ecuador",25,35,12,"Americas",35
+"Egypt",22,28,14,"Africa",28
+"El Salvador",30,30,13,"Americas",30
+"Equatorial Guinea",35,35,15,"Africa",35
+"Eritrea",34,NA,NA,"Africa",34
+"Estonia",0,24,22,"Europe",24
+"Eswatini (Swaziland)",28,33,15,"Africa",33
+"Ethiopia",30,35,NA,"Africa",35
+"Falkland Islands",26,26,0,"Americas",26
+"Faroe Islands",18,NA,NA,"Europe",18
+"Micronesia",21,NA,NA,"Oceania",21
+"Fiji",20,20,9,"Oceania",20
+"Finland",20,54,26,"Europe",54
+"France",25,55,20,"Europe",55
+"French Polynesia",25,NA,NA,"Oceania",25
+"Gabon",35,35,18,"Africa",35
+"Gambia",31,30,NA,"Africa",30
+"Germany",30,45,19,"Europe",45
+"Georgia",0,20,18,"Asia",20
+"Ghana",25,NA,3,"Africa",25
+"Gibraltar",10,40,0,"Europe",40
+"Greece",22,44,24,"Europe",44
+"Greenland",25,44,0,"Americas",44
+"Grenada",28,NA,NA,"Americas",28
+"Guatemala",25,7,12,"Americas",7
+"Guernsey",0,20,0,"Europe",20
+"Guinea",35,NA,NA,"Africa",35
+"Guinea-Bissau",35,NA,NA,"Africa",35
+"Guyana",30,35,14,"Americas",35
+"Haiti",30,30,10,"Americas",30
+"Honduras",25,NA,NA,"Americas",25
+"Hong Kong",16,15,0,"Asia",15
+"Hungary",9,15,27,"Europe",15
+"Iceland",20,46,24,"Europe",46
+"India",NA,39,40,"Asia",39
+"Indonesia",22,35,11,"Asia",35
+"Iran",25,35,NA,"Asia",35
+"Iraq",15,15,300,"Asia",15
+"Ireland",12,52,23,"Europe",52
+"Isle of Man",0,22,20,"Europe",22
+"Israel",23,50,18,"Asia",50
+"Italy",28,43,22,"Europe",43
+"Ivory Coast",25,NA,NA,"Africa",25
+"Jamaica",33,30,20,"Americas",30
+"Japan",30,50,10,"Asia",50
+"Jersey",0,20,5,"Europe",20
+"Jordan",20,25,16,"Asia",25
+"Kazakhstan",20,10,13,"Asia",10
+"Kenya",30,30,16,"Africa",30
+"Kiribati",35,NA,NA,"Oceania",35
+"Kosovo",NA,10,0,"Europe",10
+"Kuwait",NA,0,0,"Asia",0
+"North Korea",25,20,10,"Asia",20
+"Kyrgyzstan",10,10,12,"Asia",10
+"Laos",35,NA,NA,"Asia",35
+"Latvia",0,31,21,"Europe",31
+"Lebanon",17,25,11,"Asia",25
+"Lesotho",25,NA,NA,"Africa",25
+"Liberia",25,NA,NA,"Africa",25
+"Libya",24,NA,NA,"Africa",24
+"Liechtenstein",12,22,8,"Europe",22
+"Lithuania",15,43,21,"Europe",43
+"Luxembourg",29,44,17,"Europe",44
+"Macau",12,12,0,"Asia",12
+"Madagascar",20,NA,NA,"Africa",20
+"Madeira",5,45,5,"Europe",45
+"Malawi",30,35,NA,"Africa",35
+"Malaysia",NA,30,10,"Asia",30
+"Maldives",NA,0,6,"Asia",0
+"Mali",30,NA,NA,"Africa",30
+"Malta",35,35,18,"Europe",35
+"Marshall Islands",NA,12,NA,"Oceania",12
+"Mauritania",25,NA,NA,"Africa",25
+"Mauritius",15,15,15,"Africa",15
+"Mexico",30,35,16,"Americas",35
+"Moldova",12,12,20,"Europe",12
+"Monaco",0,0,20,"Europe",0
+"Mongolia",10,10,10,"Asia",10
+"Montenegro",9,13,21,"Europe",13
+"Montserrat",20,NA,NA,"Americas",20
+"Morocco",NA,38,20,"Africa",38
+"Mozambique",32,NA,NA,"Africa",32
+"Myanmar",22,NA,NA,"Asia",22
+"Namibia",32,37,15,"Africa",37
+"Nauru",25,NA,NA,"Oceania",25
+"Nepal",30,36,13,"Asia",36
+"Netherlands",25,50,21,"Europe",50
+"New Zealand",28,39,15,"Oceania",39
+"New Caledonia",30,40,NA,"Oceania",40
+"Nicaragua",30,NA,NA,"Americas",30
+"Niger",30,NA,7,"Africa",30
+"Nigeria",30,24,8,"Africa",24
+"Niue",0,NA,12,"Oceania",0
+"Norfolk Island",0,NA,NA,"Oceania",0
+"North Macedonia",10,18,18,"Europe",18
+"Norway",22,47,25,"Europe",47
+"Oman",15,0,5,"Asia",0
+"Pakistan",1,45,18,"Asia",45
+"Palau",0,NA,NA,"Oceania",0
+"Palestine",15,15,14,"Asia",15
+"Panama",25,27,7,"Americas",27
+"Papua New Guinea",30,NA,NA,"Oceania",30
+"Paraguay",10,10,10,"Americas",10
+"Peru",30,30,16,"Americas",30
+"Philippines",30,35,12,"Asia",35
+"Pitcairn Islands",0,0,0,"Oceania",0
+"Poland",19,41,23,"Europe",41
+"Portugal",20,56,23,"Europe",56
+"Puerto Rico",20,33,12,"Americas",33
+"Qatar",10,0,0,"Asia",0
+"Romania",16,45,19,"Europe",45
+"Russia",20,22,20,"Europe",22
+"Rwanda",30,30,18,"Africa",30
+"Saint Kitts and Nevis",33,0,NA,"Americas",0
+"Saint Barthélemy",0,0,0,"Americas",0
+"Saint Lucia",30,NA,NA,"Americas",30
+"Saint Martin",20,NA,NA,"Americas",20
+"Saint Pierre and Miquelon",33,NA,NA,"Americas",33
+"Saint Vincent and the Grenadines",30,NA,NA,"Americas",30
+"Samoa",27,NA,NA,"Oceania",27
+"San Marino",17,35,0,"Europe",35
+"São Tomé and Príncipe",25,NA,NA,"Africa",25
+"Sark",0,0,0,"Europe",0
+"Saudi Arabia",2,0,15,"Asia",0
+"Senegal",25,50,20,"Africa",50
+"Serbia",15,25,20,"Europe",25
+"Seychelles",33,15,15,"Africa",15
+"Sierra Leone",25,NA,NA,"Africa",25
+"Singapore",17,22,9,"Asia",22
+"Sint Maarten",34,48,5,"Americas",48
+"Slovakia",21,25,23,"Europe",25
+"Slovenia",19,50,22,"Europe",50
+"Solomon Islands",30,NA,NA,"Oceania",30
+"Somalia",30,18,0,"Africa",18
+"South Africa",28,45,15,"Africa",45
+"South Korea",24,53,10,"Asia",53
+"South Sudan",30,NA,NA,"Africa",30
+"Spain",25,52,21,"Europe",52
+"Sri Lanka",NA,36,12,"Asia",36
+"Sudan",5,NA,NA,"Africa",5
+"Suriname",36,38,NA,"Americas",38
+"Svalbard",16,22,0,"Europe",22
+"Sweden",21,46,25,"Europe",46
+"Switzerland",18,50,8,"Europe",50
+"Syria",22,15,NA,"Asia",15
+"Taiwan",20,40,5,"Asia",40
+"Tajikistan",13,13,18,"Asia",13
+"Tanzania",30,30,14,"Africa",30
+"Thailand",20,35,7,"Asia",35
+"Togo",27,NA,NA,"Africa",27
+"Tokelau",0,NA,NA,"Oceania",0
+"Tonga",25,NA,NA,"Oceania",25
+"Trinidad and Tobago",30,25,12,"Americas",25
+"Tunisia",30,35,18,"Africa",35
+"Turkey",25,40,20,"Asia",40
+"Turkmenistan",8,NA,NA,"Asia",8
+"Turks and Caicos Islands",0,NA,NA,"Americas",0
+"Tuvalu",30,NA,NA,"Oceania",30
+"Uganda",30,NA,18,"Africa",30
+"Ukraine",18,18,2,"Europe",18
+"United Arab Emirates",0,0,5,"Asia",0
+"United Kingdom",NA,70,20,"Europe",70
+"United States",21,50,NA,"Americas",50
+"Uruguay",25,36,22,"Americas",36
+"Uzbekistan",12,12,NA,"Asia",12
+"Vanuatu",0,0,0,"Oceania",0
+"Venezuela",34,34,16,"Americas",34
+"Vietnam",20,35,10,"Asia",35
+"British Virgin Islands",0,0,NA,"Americas",0
+"U.S. Virgin Islands",NA,NA,NA,"Americas",NA
+"Wallis and Futuna",0,0,0,"Oceania",0
+"Yemen",20,15,2,"Asia",15
+"Zambia",30,30,16,"Africa",30
+"Zimbabwe",25,45,15,"Africa",45
